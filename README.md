@@ -146,10 +146,10 @@ These properties contribute to improved modeling of non-linear, noisy financial 
 
 ## Use Cases
 
-- **Investment Decision Support** – Assists in identifying potential market trends  
-- **Risk Management** – Helps evaluate uncertain and volatile market conditions  
-- **Market Timing Strategies** – Supports entry and exit decision-making  
-- **Financial Research** – Enables exploration of quantum-enhanced forecasting models 
+- **Investment Decision Support** - Assists in identifying potential market trends  
+- **Risk Management** - Helps evaluate uncertain and volatile market conditions  
+- **Market Timing Strategies** - Supports entry and exit decision-making  
+- **Financial Research** - Enables exploration of quantum-enhanced forecasting models 
 
 
 ---
