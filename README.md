@@ -125,8 +125,9 @@ A **6-qubit and 3-layer** architecture is used to balance representational power
 - Demonstrates model behavior under **live market conditions**  
 - Highlights practical use as a **decision-support system** 
 
+### Tata Steel
 This project was evaluated in a **real-time investment scenario using Tata Steel stock data**.
-![Day 2 Prediction](docs/tata.png)
+![Real Company Stock](docs/tata.png)
 
 ---
 
