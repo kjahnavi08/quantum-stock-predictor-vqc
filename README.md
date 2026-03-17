@@ -93,12 +93,12 @@ A **6-qubit and 3-layer** architecture is used to balance representational power
 ## Results & Analysis
 
 ### Model Comparison
-![Classical vs Deep Learning vs Quantum](docs/results_comparison.png)
+![Classical vs Deep Learning vs Quantum](docs/results_comparision.png)
 
 ---
 
 ### Unified Model Performance
-![Unified Comparison](docs/unified_comparison.png)
+![Unified Comparison](docs/unified_comparision.png)
 
 ---
 
@@ -113,21 +113,20 @@ A **6-qubit and 3-layer** architecture is used to balance representational power
 ---
 ## Live Predictions 
 
-
-
 ### Day 1
-![Day 1 Prediction](docs/day1_pred.png)
-![Day 1 Actual](docs/day1_actual.png)
+![Day 1 Prediction](docs/day1.png)
+
 
 ### Day 2
-![Day 2 Prediction](docs/day2_pred.png)
-![Day 2 Actual](docs/day2_actual.png)
+![Day 2 Prediction](docs/day2.png)
+
 
 - Predictions are compared against actual market movements  
 - Demonstrates model behavior under **live market conditions**  
 - Highlights practical use as a **decision-support system** 
 
 This project was evaluated in a **real-time investment scenario using Tata Steel stock data**.
+![Day 2 Prediction](docs/tata.png)
 
 ---
 
