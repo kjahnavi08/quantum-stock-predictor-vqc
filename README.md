@@ -163,3 +163,14 @@ These properties contribute to improved modeling of non-linear, noisy financial 
 - Real-time predictions at **5-minute intervals** for short-term decision support  
 - Quantum circuit transpilation for **IBM Quantum (Marrakesh backend)**  
 ---
+
+## Code Availability
+
+The full implementation is not publicly available due to ongoing research and intellectual property considerations.
+
+This repository provides:
+- Detailed methodology and architecture  
+- Experimental results and analysis  
+- Sample outputs and visualizations  
+
+For any queries or discussion, feel free to reach out.
